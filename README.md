@@ -70,8 +70,6 @@ Identified odor as the most significant feature for predicting mushroom toxicity
 📦 How to Run
 Clone this repository
 
-Install required libraries from requirements.txt (if provided)
-
 Open the Jupyter Notebook or run in a Kaggle environment
 
 Run cells step by step to see data processing and model training in action
